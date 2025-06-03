@@ -1,3 +1,5 @@
 # git_test
 
-author: "devmatafo"
+Autor del archivo: devmatafo
+--------------------------------
+Este archivo es un sample de git
